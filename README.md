@@ -10,7 +10,7 @@ This project, **"Pizza Sales Analysis"**, is based on **SQL** where I analyzed p
 - Total revenue generated  
 - Top-selling pizzas and popular sizes  
 - Category-wise pizza performance  
-- Daily and hourly order trends  
+- Daily and hourly order trend  
 - Percentage contribution of each pizza type to total revenue  
 
 ---
