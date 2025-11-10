@@ -36,7 +36,7 @@ The project includes a **relational database schema** with the following tables:
 
 ---
 
-## 📈 Insights
+## 📈 Insights 
 - Identified **top-performing pizza types** and **best-selling categories**  
 - Observed sales patterns across **different time periods**  
 - Enhanced skills in **SQL joins, aggregations, and group operations**
