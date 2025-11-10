@@ -1,21 +1,20 @@
-# 🍕 PizzaHut Sales Analysis (SQL)
+#  PizzaHut Sales Analysis (SQL)
 
-![Project Banner](Pizza_Sales_Analysis_SQL.png)  
-*A project by Vivek Sharma*
+![Project Banner](Pizza_Sales_Analysis_SQL.png)
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 This project, **"Pizza Sales Analysis"**, is based on **SQL** where I analyzed pizza sales data to uncover useful business insights such as:
 - Total revenue generated  
 - Top-selling pizzas and popular sizes  
 - Category-wise pizza performance  
-- Daily and hourly order trend  
+- Daily and hourly order trends  
 - Percentage contribution of each pizza type to total revenue  
 
 ---
 
-## 🧩 Database Design
+##  Database Design
 The project includes a **relational database schema** with the following tables:
 - **orders** – stores order date and time  
 - **order_details** – contains order-level pizza details  
@@ -36,29 +35,30 @@ The project includes a **relational database schema** with the following tables:
 
 ---
 
-## 📈 Insights 
+##  Insights
 - Identified **top-performing pizza types** and **best-selling categories**  
 - Observed sales patterns across **different time periods**  
 - Enhanced skills in **SQL joins, aggregations, and group operations**
 
 ---
 
-## 🧾 Tools Used
+##  Tools Used
 - **MySQL / SQL Server**  
+
 
 ---
 
 ##  Author
-**Vivek Sharma** — Data Enthusiast passionate about analytics and business intelligence.
+**Vivek Sharma**  
+A data enthusiast passionate about **analytics, databases, and business insights**.  
 
 ---
 
 ##  Conclusion
-This project strengthened my understanding of **SQL-based data analysis**, **database design**, and **business insights generation**.  
-**Thank you for checking out my project!**  
+This project strengthened my understanding of **SQL-based data analysis**, **database design**, and **business insight generation**.  
+**Thank you for checking out my project!**
 
 ---
 
->  *If you like this project, don’t forget to star the repo!*  
+>  *If you liked this project, don't forget to star the repo!*  
 >  *Suggestions are always welcome!*
-
